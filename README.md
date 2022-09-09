@@ -5,16 +5,16 @@ This is the Test 2
 - The outcome will be the following, for Question 1
 
 
-The sum of the array is 113089414
+The sum of the array is 113089414<br />
 It takes 517400 nanoseconds to compute the summation directly<br />
-The sum of the array is 113085944                            \\
-It takes 0 nanoseconds to compute the summation directly  
+The sum of the array is 113085944<br />                            
+It takes 0 nanoseconds to compute the summation directly<br />  
 (Note, that the sum is different I think mostly due to stack overflow, which is unfortunate, but you should try a number big enough, I tried with 15000, but as you can see, the second one takes about 0 nanoseconds, but it was a nonzero when I input like 15000000, so keep that in mind if you want to play with the input parameter)
 
 - The outcome for Q2 will be the following
 
-The Sorting used to sort the slice takes 18144400 nanoseconds to sort
-The SliceStable used to sort the slice takes 57100100 nanoseconds to sort
+The Sorting used to sort the slice takes 18144400 nanoseconds to sort<br />
+The SliceStable used to sort the slice takes 57100100 nanoseconds to sort<br />
 
 (Note: I tried with the input 15000, but you are certainly welcome to try larger ones by modifying the parseInt method)
 
