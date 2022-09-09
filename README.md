@@ -6,7 +6,7 @@ This is the Test 2
 
 
 The sum of the array is 113089414
-It takes 517400 nanoseconds to compute the summation directly\\
+It takes 517400 nanoseconds to compute the summation directly__
 The sum of the array is 113085944                            \\
 It takes 0 nanoseconds to compute the summation directly  
 (Note, that the sum is different I think mostly due to stack overflow, which is unfortunate, but you should try a number big enough, I tried with 15000, but as you can see, the second one takes about 0 nanoseconds, but it was a nonzero when I input like 15000000, so keep that in mind if you want to play with the input parameter)
